@@ -1,0 +1,81 @@
+access_id,employee_id,system_name,access_status,last_login_date,disabled_date
+UA0001,E001,Online Banking Admin,Disabled,2025-06-22,2025-06-23
+UA0002,E001,Core Banking,Disabled,2025-06-22,2025-06-23
+UA0003,E002,Loan Origination,Disabled,2025-11-05,2025-11-07
+UA0004,E002,Core Banking,Disabled,2025-11-05,2025-11-06
+UA0005,E003,Core Banking,Disabled,2025-02-17,2025-02-17
+UA0006,E003,GL System,Disabled,2025-02-17,2025-02-19
+UA0007,E004,Loan Origination,Active,2025-12-10,
+UA0008,E004,Online Banking Admin,Active,2025-12-27,
+UA0009,E005,Loan Origination,Active,2025-11-13,
+UA0010,E005,Online Banking Admin,Active,2025-12-16,
+UA0011,E006,Core Banking,Disabled,2025-03-23,2025-03-25
+UA0012,E006,Online Banking Admin,Disabled,2025-03-23,2025-03-23
+UA0013,E007,Loan Origination,Disabled,2025-05-23,2025-05-23
+UA0014,E007,Core Banking,Disabled,2025-05-23,2025-05-23
+UA0015,E008,Online Banking Admin,Disabled,2025-04-30,2025-05-01
+UA0016,E008,GL System,Disabled,2025-04-30,2025-05-02
+UA0017,E009,Loan Origination,Disabled,2025-08-18,2025-08-19
+UA0018,E009,Core Banking,Active,2025-08-18,
+UA0019,E010,GL System,Active,2025-11-18,
+UA0020,E010,Loan Origination,Active,2025-12-15,
+UA0021,E011,Core Banking,Active,2025-12-11,
+UA0022,E011,Loan Origination,Active,2025-11-11,
+UA0023,E012,GL System,Active,2025-11-30,
+UA0024,E012,Core Banking,Active,2025-11-25,
+UA0025,E013,Loan Origination,Active,2025-12-15,
+UA0026,E013,Online Banking Admin,Active,2025-12-06,
+UA0027,E014,GL System,Active,2025-11-21,
+UA0028,E014,Loan Origination,Active,2025-12-24,
+UA0029,E015,Core Banking,Disabled,2025-08-03,2025-08-03
+UA0030,E015,Online Banking Admin,Disabled,2025-08-03,2025-08-04
+UA0031,E016,Online Banking Admin,Active,2025-11-29,
+UA0032,E016,GL System,Disabled,2025-11-29,2025-11-29
+UA0033,E017,Loan Origination,Active,2025-12-12,
+UA0034,E017,Core Banking,Active,2025-12-02,
+UA0035,E018,Online Banking Admin,Disabled,2025-10-15,2025-10-16
+UA0036,E018,Loan Origination,Active,2025-10-15,
+UA0037,E019,Loan Origination,Active,2025-11-16,
+UA0038,E019,Core Banking,Active,2025-12-18,
+UA0039,E020,Loan Origination,Active,2025-12-08,
+UA0040,E020,Online Banking Admin,Active,2025-11-28,
+UA0041,E021,Online Banking Admin,Active,2025-11-15,
+UA0042,E021,GL System,Active,2025-11-09,
+UA0043,E022,Online Banking Admin,Active,2025-12-19,
+UA0044,E022,Core Banking,Active,2025-11-04,
+UA0045,E023,Core Banking,Active,2025-12-11,
+UA0046,E023,Online Banking Admin,Active,2025-11-11,
+UA0047,E024,Online Banking Admin,Active,2025-11-05,
+UA0048,E024,Loan Origination,Active,2025-11-25,
+UA0049,E025,Online Banking Admin,Active,2025-11-30,
+UA0050,E025,Loan Origination,Active,2025-12-04,
+UA0051,E026,Loan Origination,Active,2025-12-26,
+UA0052,E026,Online Banking Admin,Active,2025-12-31,
+UA0053,E027,Core Banking,Active,2025-12-17,
+UA0054,E027,Loan Origination,Active,2025-11-08,
+UA0055,E028,Loan Origination,Disabled,2025-06-24,2025-06-25
+UA0056,E028,Online Banking Admin,Disabled,2025-06-24,2025-06-24
+UA0057,E029,Loan Origination,Active,2025-11-11,
+UA0058,E029,GL System,Active,2025-11-30,
+UA0059,E030,Core Banking,Active,2025-12-27,
+UA0060,E030,Loan Origination,Active,2025-12-17,
+UA0061,E031,Loan Origination,Active,2025-12-19,
+UA0062,E031,Online Banking Admin,Active,2025-11-12,
+UA0063,E032,Core Banking,Active,2025-11-20,
+UA0064,E032,Loan Origination,Active,2025-12-24,
+UA0065,E033,GL System,Active,2025-11-24,
+UA0066,E033,Core Banking,Active,2025-12-19,
+UA0067,E034,GL System,Active,2025-12-20,
+UA0068,E034,Loan Origination,Active,2025-12-30,
+UA0069,E035,Core Banking,Active,2025-11-21,
+UA0070,E035,Loan Origination,Active,2025-12-02,
+UA0071,E036,Core Banking,Active,2025-12-30,
+UA0072,E036,Online Banking Admin,Active,2025-11-24,
+UA0073,E037,Loan Origination,Active,2025-11-04,
+UA0074,E037,Core Banking,Active,2025-11-16,
+UA0075,E038,Core Banking,Active,2025-12-17,
+UA0076,E038,Online Banking Admin,Active,2025-12-02,
+UA0077,E039,Core Banking,Disabled,2025-03-21,2025-03-21
+UA0078,E039,Loan Origination,Disabled,2025-03-21,2025-03-21
+UA0079,E040,Online Banking Admin,Active,2025-11-11,
+UA0080,E040,Loan Origination,Active,2025-11-17,

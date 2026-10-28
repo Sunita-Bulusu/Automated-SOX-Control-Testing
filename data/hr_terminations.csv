@@ -1,0 +1,13 @@
+employee_id,employee_name,department,termination_date
+E008,Employee 008,Deposits,2025-04-30
+E002,Employee 002,IT,2025-11-05
+E018,Employee 018,Retail Ops,2025-10-15
+E016,Employee 016,Deposits,2025-11-29
+E015,Employee 015,IT,2025-08-03
+E009,Employee 009,Deposits,2025-08-18
+E007,Employee 007,IT,2025-05-23
+E006,Employee 006,Retail Ops,2025-03-23
+E028,Employee 028,Finance,2025-06-24
+E039,Employee 039,Lending,2025-03-21
+E001,Employee 001,Deposits,2025-06-22
+E003,Employee 003,Retail Ops,2025-02-17
