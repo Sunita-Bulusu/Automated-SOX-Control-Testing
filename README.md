@@ -48,7 +48,7 @@ All 5 controls failed, and the exception counts match the planted data exactly.
 
 Owners, root causes and due dates are illustrative; in practice they are agreed with each control owner.
 
-<!-- Add a screenshot of the Summary sheet here, e.g. ![Exceptions report summary](images/exceptions_summary.png) -->
+![Exceptions report summary](Images/exceptions_summary.png)
 
 ---
 
