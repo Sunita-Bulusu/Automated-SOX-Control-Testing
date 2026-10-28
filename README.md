@@ -63,7 +63,7 @@ Owners, root causes and due dates are illustrative; in practice they are agreed 
 ## Project structure
 
 ```
-Automated-SOX-Testing-Control/
+Automated-SOX-Control-Testing/
 ├── docs/     SOX_Test_Plan.xlsx
 ├── sql/      01_create_tables.sql
 ├── python/   02_generate_data.py
